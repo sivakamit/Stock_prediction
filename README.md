@@ -13,4 +13,4 @@ Test accuracy metrics is mean absolute error.
 # Perdiction
 Next day's stock price and last day's stock price predicted by the model.
 # Conclusion
-OHLC average is used as other two parameters (HLC average and closing value) are not that significant. The training and testing error rate is 8.77 and 107.68 which training has low rate than testing. The model can be improved more by optimizing it.  
+OHLC average is used as other two parameters (HLC average and closing value) are not that significant. The training and testing error rate is 8.77 and 62.98 which training has low rate than testing. The model can be improved more by optimizing it.  
